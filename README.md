@@ -5,10 +5,8 @@ March 2021
 In this project, we created store's app. 
 
 In this store, we could add, update, remove, and show items and clients on demand.\
-See the result!
 
-![](
-)
+[See the result!](https://drive.google.com/file/d/1ZpFRroqdWtW4qy5Kn7575NJiCM9Wlovy/view?usp=sharing)
 
 
 Stav Rabinovich   [LinkedIn](https://www.linkedin.com/in/stav-rabinovich/)  [Github](https://github.com/StavRabinovich)\
